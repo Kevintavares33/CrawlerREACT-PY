@@ -1,0 +1,32 @@
+*body{
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+ 
+.box-form{
+  
+    width: 60%;
+    height: 70vh;
+    box-sizing: border-box;
+    box-shadow: inset;
+    background-color: rgb(27, 59, 85);
+}
+
+.titulo{
+    font-size: larger;
+    margin-top: 5rem;
+    padding: 15px;
+}
+.App-header{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    font-size: 13px;
+
+}
+label{
+    justify-content: center;
+    ;
+}
